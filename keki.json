@@ -1,6 +1,7 @@
 {
-  "temperature": "23°C",
-  "stock": "10 units",
-  "finishedProducts": "50 units",
-  "humidity": "50%"
+  "status": "off",
+  "temperature": "20°C",
+  "humidity": "50%",
+  "stock": "1000 kg",
+  "finishedProducts": "500 kg"
 }
