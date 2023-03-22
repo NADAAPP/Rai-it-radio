@@ -1,6 +1,6 @@
 {
-    "temperature": "20",
-    "stock": "50",
-    "finishedProducts": "800",
-    "humidity": "400"
+  "temperature": 25,
+  "stock": 100,
+  "finishedProducts": 75,
+  "humidity": 50
 }
