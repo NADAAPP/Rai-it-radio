@@ -3,4 +3,5 @@
   "stock": 100,
   "finishedProducts": 75,
   "humidity": 50
+  "status": "off"
 }
