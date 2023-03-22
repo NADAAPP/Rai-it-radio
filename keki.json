@@ -1,7 +1,7 @@
 {
-  "temperature": 70,
-  "humidity": 60,
-  "stock": 8900,
-  "finishedProducts": 500,
-  "status": "off"
+  "temperature": 25,
+  "humidity": 10,
+  "stock": 4000,
+  "finishedProducts": 2000,
+  "status": "on"
 }
